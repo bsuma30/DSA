@@ -1,3 +1,4 @@
+/*
 Given two numbers a and b. Your task is to return the sum of a and b.
 
 Examples:
@@ -10,8 +11,8 @@ Output: 30
 Explanation: Addition os 10 and 20 is 30.
 Constraints:
 1 <= a, b <= 1018
+*/
 
----
 
 int addition(int a, int b) {
     return (a+b);
